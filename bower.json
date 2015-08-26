@@ -1,0 +1,22 @@
+{
+  "name": "chartistjs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/thanhrossi/chartistjs",
+  "authors": [
+    "thanh <thanhrossi.tt@gmail.com>"
+  ],
+  "description": "Chartist js example",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "~6.2.0",
+    "chartist": "~0.9.4"
+  }
+}
