@@ -1,2 +1,3 @@
 # chartistjs
-chartistjs simple example
+##chartistjs simple example
+bower install
