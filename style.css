@@ -1,13 +1,15 @@
 .row {
-  background-color: #cccccc;
-  background-color: rgba(0,0,0,0.1);
+    background-color: #F6F4F4;
+    border: 1px solid #CAC8C8;
 }
+
 .col {
-  background-color: #999999;
-  background-color: rgba(0,0,0,0.2);
-  background-clip: content-box;
-  border: 1px solid rgba(0,0,0,0.1);
+    background-color: #999999;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-clip: content-box;
+    border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
 .page-section {
     padding-top: 3rem;
     margin-bottom: 3rem;

@@ -16,7 +16,8 @@
     "tests"
   ],
   "dependencies": {
+    "chartist": "~0.9.4",
     "flexboxgrid": "~6.2.0",
-    "chartist": "~0.9.4"
+    "jquery": "~2.1.4"
   }
 }
